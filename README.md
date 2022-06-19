@@ -1,12 +1,14 @@
-##Getting Started with ESP8266 ESP-01 fresh chip 
+# Getting Started with ESP8266 ESP-01 fresh chip 
 
 In this guide I show how to check ESP 01 `AT` command with Ardunio
-###Component we need
+## Component we need
 - ESP8266 ESP-01 Wi-Fi Module
 - Male/Female Jumper Wire
 - Breadboard
 - Ardunio Uno R3
 
+## Step -1
+![alt text](https://content.instructables.com/ORIG/FQ3/0RFA/IJX7FOPJ/FQ30RFAIJX7FOPJ.png?auto=webp&frame=1&fit=bounds&md=9a8e49d83505db3aae7431acc3f61446 "Config"){ width=60%,height:300px }
 
 
 
