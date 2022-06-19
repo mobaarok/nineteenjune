@@ -8,7 +8,7 @@ In this guide I show how to check ESP 01 `AT` command with Ardunio
 - Ardunio Uno R3
 
 ## Step -1
-![alt text](https://content.instructables.com/ORIG/FQ3/0RFA/IJX7FOPJ/FQ30RFAIJX7FOPJ.png?auto=webp&frame=1&fit=bounds&md=9a8e49d83505db3aae7431acc3f61446 "Config" | width=300px )
+![alt text](https://content.instructables.com/ORIG/FQ3/0RFA/IJX7FOPJ/FQ30RFAIJX7FOPJ.png?auto=webp&frame=1&fit=bounds&md=9a8e49d83505db3aae7431acc3f61446 | width=300px )
 
  [editor on GitHub](/esp.md) to maintain and preview the content for your website in Markdown files.
 ### Markdown
