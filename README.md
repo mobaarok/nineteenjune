@@ -1,9 +1,16 @@
-## Welcome to GitHub Pages
+##Getting Started with ESP8266 ESP-01 fresh chip 
 
-You can use the [editor on GitHub](/esp.md) to maintain and preview the content for your website in Markdown files.
+In this guide I show how to check ESP 01 `AT` command with Ardunio
+###Component we need
+- ESP8266 ESP-01 Wi-Fi Module
+- Male/Female Jumper Wire
+- Breadboard
+- Ardunio Uno R3
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+
+ [editor on GitHub](/esp.md) to maintain and preview the content for your website in Markdown files.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
